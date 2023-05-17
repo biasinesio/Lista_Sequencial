@@ -1,1 +1,1 @@
-lista sequen
+lista sequencial
